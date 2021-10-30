@@ -1,0 +1,11 @@
+Welcome!
+This is the backup collection of the material for the forthcoming book, "Scrum Patterns: The Spirit of the Game," replicating the material at https://sites.google.com/a/scrumplop.org/published-patterns/home. Only the "Published Patterns" appear here - that is, those that are held to be fairly close to their final appearance in the book.
+
+For additional historical context, see also http://www.scrumorgpatterns.com and http://orgpatterns.com.
+
+The ScrumPLoP Product Backlog is on the Product Backlog Spreadsheet.
+
+If you are a pattern author:
+For the time being, the book content will undergo only small incremental changes in response to reader feedback. New patterns will join the existing patterns in a repository that will remain private to the Community of Trust of pattern authors at: http://sites.google.com/a/scrumplop.org/works-in-progress/.
+
+The old pattern spreadsheet is still online on the Google site at Spreadsheet Web Page as a historical record. Check the Product Backlog for the most current information on what's happening with the book.
