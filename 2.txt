@@ -1,4 +1,8 @@
+Scrum Patterns
+==============
+
 Welcome!
+
 This is the backup collection of the material for the forthcoming book, "Scrum Patterns: The Spirit of the Game," replicating the material at https://sites.google.com/a/scrumplop.org/published-patterns/home. Only the "Published Patterns" appear here - that is, those that are held to be fairly close to their final appearance in the book.
 
 For additional historical context, see also http://www.scrumorgpatterns.com and http://orgpatterns.com.
