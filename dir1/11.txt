@@ -1,8 +1,0 @@
-Agile Retrospective Resource Wiki
-Jump to navigationJump to search
-Welcome!
-This is a resource for sharing retrospective plans, tips & tricks, tools and ideas to help us get the most out of our retrospectives. Retrospectives play a crucial role in software teams. It is time specifically put aside to reflect on how the team is performing and what can be done to improve.
-
-"[...] a meeting held by a project team at the end of a project or process (often after a certain number of iterations) to discuss what was successful about the project or time period covered by that retrospective, what could be improved, and how to incorporate the successes and improvements in future iterations or projects." - Wikipedia
-
-The process of retrospecting is at the heart of Scrum (Inspect and Adapt), eXtreme Programming (fix it when it breaks) and Lean Software Development (Kaizen or Continuous Improvement)
